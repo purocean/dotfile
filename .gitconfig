@@ -1,0 +1,10 @@
+[user]
+	email = purocean@outlook.com
+	name = Yang
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+    hide = update-index --assume-unchanged
+    unhide = update-index --no-assume-unchanged
