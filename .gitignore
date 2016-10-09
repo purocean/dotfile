@@ -1,9 +1,9 @@
-*
-!.bashrc
-!.gitignore
-!.profile
-!.vim
-!.vimrc
-!.gemrc
-!.gitconfig
+.ssh
+.git
+.cache
+.viminfo
+.zcompdump*
+.zsh_history
+.zsh-update
+.z
 

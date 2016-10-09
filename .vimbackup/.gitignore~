@@ -1,0 +1,8 @@
+.ssh
+.git
+.cache
+.viminfo
+.zcompdump*
+.zsh_history
+.zsh-update
+

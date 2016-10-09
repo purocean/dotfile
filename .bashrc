@@ -116,3 +116,5 @@ fi
 
 complete -W "$(echo $(grep '^Host ' ~/.ssh/config | sort -u | sed 's/^ssh //'))" ssh
 complete -W "$(echo $(grep '^Host ' ~/.ssh/config | sort -u | sed 's/^scp //'))" scp
+
+bash -c zsh
