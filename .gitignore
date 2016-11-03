@@ -6,4 +6,11 @@
 .zsh_history
 .zsh-update
 .z
+.*history
+.vimviews
+.vimback
+.vimundo
+.vimbackup
+ubuntu
+.bash_logout
 
